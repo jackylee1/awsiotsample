@@ -1,0 +1,25 @@
+{
+  "name": "cabinetiotclient",
+  "version": "1.0.0",
+  "description": "AWS IoT client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reggie.senal@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-iot-device-sdk": "^1.0.14",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-sanitizer": "^1.0.2",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "run-sequence": "^1.2.2",
+    "server-static": "^2.0.0"
+  }
+}

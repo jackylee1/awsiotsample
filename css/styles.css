@@ -1,0 +1,15 @@
+.container {
+  max-width: 960px;
+  margin: 0 auto; }
+
+.off {
+  background-color: gray; }
+
+.on {
+  background-color: green; }
+
+.switch {
+  padding: 10px;
+  width: 95px;
+  text-align: center;
+  display: block; }
